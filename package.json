@@ -1,0 +1,16 @@
+{
+  "name": "workflow-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "workflow",
+    "test"
+  ],
+  "repository" :{
+  	"type" :"git",
+  	"url" : "https://github.com/LuciOroles/workflow-l.git"
+  },
+  "author": "Luci",
+  "license": "ISC"
+}
