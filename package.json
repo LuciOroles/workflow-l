@@ -7,10 +7,14 @@
     "workflow",
     "test"
   ],
-  "repository" :{
-  	"type" :"git",
-  	"url" : "https://github.com/LuciOroles/workflow-l.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuciOroles/workflow-l.git"
   },
   "author": "Luci",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  }
 }
